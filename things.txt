@@ -1,7 +1,7 @@
-I like to eat: <XXXX Your favorite food here>
-I like to hear: <XXXX Your favorite music here>
-My hobbies are <XXXX>.
+I like to eat: salad
+I like to hear: music
+My hobbies are sleep.
 
-I would like to travel to <XXXX>.
+I would like to travel to north.
 
-"<XXXX Your favorite quote goes here>".
+"Lashon Hara does not speak to me".
