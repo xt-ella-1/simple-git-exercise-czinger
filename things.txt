@@ -4,4 +4,10 @@ My hobbies are sleep.
 
 I would like to travel to north.
 
+<<<<<<< HEAD
 "Lashon Hara does not speak to me".
+=======
+"<XXXX Your favorite quote goes here>".
+
+lolololololoololokololol
+>>>>>>> myBanch
